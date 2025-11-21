@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "lab-project-monorepo",
+  "builds": [
+    {
+      "src": "Lab Project/frontend/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "dist"
+      }
+    }
+  ],
+  "routes": []
+}

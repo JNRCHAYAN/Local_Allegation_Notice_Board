@@ -1,0 +1,1 @@
+so many variable name issues and i constantly gave this "npm start" command which got no relation whatsoever to this project..............bang bang

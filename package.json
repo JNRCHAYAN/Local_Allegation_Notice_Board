@@ -1,0 +1,7 @@
+{
+  "name": "lab-project-root",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd \"Lab Project/frontend\" && npm ci && npm run build"
+  }
+}
