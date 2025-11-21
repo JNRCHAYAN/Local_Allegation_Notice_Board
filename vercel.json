@@ -3,7 +3,7 @@
   "name": "lab-project-monorepo",
   "builds": [
     {
-      "src": "Lab Project/frontend/package.json",
+      "src": "lab-project/frontend/package.json",
       "use": "@vercel/static-build",
       "config": {
         "distDir": "dist"
